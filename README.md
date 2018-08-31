@@ -1,1 +1,1 @@
-This repository includes the scripts used to generated the plots for the my lecture on regression methods for the WIPAC X-meeting, as well as the exercise notebooks.
+This repository includes the scripts used to generated the plots for my lecture on regression methods in the WIPAC X-meeting, as well as the exercise notebook.
